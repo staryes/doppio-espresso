@@ -5,23 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        // from data-repo
-        repo: "staryes/doppio-espresso",
-        // from data-repo-id
-        repoId: "R_kgDOQWivLw",
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: "DIC_kwDOQWivL84Cx26w",
-      // from data-lang
-      lang: 'en'
-    }
-  }),
-],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/staryes/doppio-espresso",
@@ -40,7 +24,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.RecentNotes({ title: "Recent writing" }),
   ],
   left: [
     Component.PageTitle(),
@@ -56,11 +39,29 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.RecentNotes({ title: "Recent writing" }),
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+  ],
+  afterBody:[
+     Component.Comments({
+       provider: 'giscus',
+       options: {
+         // from data-repo
+         repo: "staryes/doppio-espresso",
+         // from data-repo-id
+         repoId: "R_kgDOQWivLw",
+         // from data-category
+         category: 'Announcements',
+         // from data-category-id
+         categoryId: "DIC_kwDOQWivL84Cx26w",
+         // from data-lang
+         lang: 'en'
+       }
+     }),
   ],
 }
 
