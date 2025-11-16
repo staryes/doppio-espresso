@@ -1,7 +1,7 @@
 +++
 title = "Maps & Recipes"
 author = ["Shoushan"]
-lastmod = 2025-11-15T22:40:57-05:00
+lastmod = 2025-11-16T16:48:20-05:00
 draft = false
 +++
 
@@ -22,3 +22,6 @@ draft = false
 [Swedish Rice Porridge]({{< relref "swedish_rice_porridge.md" >}})
 
 [Icelandic Leaf Bread]({{< relref "icelandic_leaf_bread.md" >}})
+
+
+## 故事 {#故事}
