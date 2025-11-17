@@ -1,7 +1,7 @@
 +++
 title = "Annapurna Base Camp"
 author = ["Shoushan"]
-lastmod = 2025-11-15T22:02:56-05:00
+lastmod = 2025-11-17T16:52:27-05:00
 draft = false
 +++
 

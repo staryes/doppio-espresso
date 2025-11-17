@@ -1,7 +1,7 @@
 +++
 title = "Dolomiti"
 author = ["Shoushan"]
-lastmod = 2025-11-15T22:12:58-05:00
+lastmod = 2025-11-17T16:53:41-05:00
 draft = false
 +++
 
