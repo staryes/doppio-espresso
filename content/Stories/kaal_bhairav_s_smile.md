@@ -1,15 +1,15 @@
 +++
 title = "Kaal Bhairav's smile"
 author = ["Shoushan"]
-lastmod = 2025-11-19T20:47:12-05:00
+lastmod = 2025-11-19T22:44:49-05:00
 draft = false
 +++
 
 在[Kathmandu Durbar Square]({{< relref "kathmandu_durbar_square.md" >}})裡面充滿了各個神廟。
 
-傳說在Kaal Bhairav神像面前講實話是可以說出來，如果是說謊話就會變成吐水。神的規則是絕對的，所以人沒辦法違抗這種事情。也因此這會變成一個判別是否說謊的方法。
+傳說在Kaal Bhairav[^fn:1]神像面前講實話是可以說出來，如果是說謊話就會變成吐水。神的規則是絕對的，所以人沒辦法違抗這種事情。也因此這會變成一個判別是否說謊的方法。
 
-{{< figure src="/ox-hugo/2025-11-19_20-17-33_PXL_20251015_044135690.jpg" >}}
+{{< figure src="pics/kaal_bhairav_s_smile/2025-11-19_20-17-33_PXL_20251015_044135690.Jpg" >}}
 
 2025/10/15 上午，天氣蠻好的，雖然加德滿都大部分情況空氣都不太好，不過在都巴廣場好像有好一點點。
 
@@ -38,3 +38,6 @@ Kaal Bhairav 聽了就笑了。但是邏輯正確，所以他讓老兄把話說�
 大家雖然疑惑，但是老兄說的是真話，他真的在這段期間沒有騙人，大家也只好接受。
 
 於是，Kaal Bhairav 就笑到現在。
+
+[^fn:1]: 陪臚。泰米爾人稱為Kaal Bhairava。字面意思是恐怖、可畏。是濕婆神 Śiva
+    的一個化身。 [<https://zh.wikipedia.org/zh-tw/%E9%99%AA%E8%87%9A>]
