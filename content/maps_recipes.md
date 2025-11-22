@@ -1,7 +1,7 @@
 +++
 title = "Maps & Recipes"
 author = ["Shoushan"]
-lastmod = 2025-11-21T23:49:40-05:00
+lastmod = 2025-11-21T23:56:13-05:00
 draft = false
 +++
 
@@ -64,7 +64,7 @@ Malta 2021
 
 ### 愛德華王子島的安妮 {#愛德華王子島的安妮}
 
-PEI 2021
+[PEI 2021]({{< relref "pei_2021.md" >}})
 
 
 ## 2020 {#2020}
