@@ -9,3 +9,9 @@ draft = false
 跟著地圖，我們走到世界各地；照著食譜，我們把世界帶到家裡。
 
 [Maps & Recipes]({{< relref "maps_recipes.md" >}})
+
+
+# Tags
+
+查看所有 tags：[All Tags](/tags)
+
