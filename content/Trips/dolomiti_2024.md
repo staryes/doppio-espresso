@@ -1,7 +1,8 @@
 +++
 title = "Dolomiti 2024"
 author = ["Shoushan"]
-lastmod = 2025-11-21T22:49:11-05:00
+lastmod = 2025-11-22T11:04:48-05:00
+tags = [2024]
 draft = false
 +++
 
