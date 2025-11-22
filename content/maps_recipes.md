@@ -1,7 +1,7 @@
 +++
 title = "Maps & Recipes"
 author = ["Shoushan"]
-lastmod = 2025-11-21T22:48:42-05:00
+lastmod = 2025-11-21T23:10:10-05:00
 draft = false
 +++
 
@@ -31,7 +31,7 @@ draft = false
 
 ### 北海道滑雪 {#北海道滑雪}
 
-Hokkaido 2024
+[Hokkaido 2024]({{< relref "hokkaido_2024.md" >}})
 
 
 ## 2023 {#2023}
