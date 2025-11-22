@@ -1,7 +1,7 @@
 +++
 title = "Maps & Recipes"
 author = ["Shoushan"]
-lastmod = 2025-11-21T23:10:10-05:00
+lastmod = 2025-11-21T23:49:40-05:00
 draft = false
 +++
 
@@ -51,7 +51,7 @@ draft = false
 
 ### 冰島的夏至 {#冰島的夏至}
 
-Iceland 2022
+[Iceland 2022]({{< relref "iceland_2022.md" >}})
 
 
 ## 2021 {#2021}
