@@ -26,7 +26,7 @@ draft = false
 
 ### 多洛米提爬山 {#多洛米提爬山}
 
-[Dolomiti 2024]({{< relref "../dolomiti_2024.md" >}})
+[Dolomiti 2024]({{< relref "dolomiti_2024.md" >}})
 
 
 ### 北海道滑雪 {#北海道滑雪}
