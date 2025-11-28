@@ -1,7 +1,7 @@
 +++
 title = "Paella"
 author = ["Shoushan"]
-lastmod = 2025-11-28T18:05:30-05:00
+lastmod = 2025-11-28T18:20:27-05:00
 draft = false
 +++
 
@@ -10,6 +10,8 @@ Paella 可以說是西班牙[Spain]({{< relref "spain.md" >}})的代表料理，
 
 
 ## BBC 簡易版 {#bbc-簡易版}
+
+[<https://www.bbc.co.uk/food/recipes/chicken_and_seafood_62744>]
 
 雖然說查食譜查到 BBC 去相當不像樣，但是說不定主打「連英國人都能做好」的食譜是更有賣點的。
 
