@@ -1,7 +1,7 @@
 +++
-title = "cardone"
+title = "Cardone"
 author = ["Shoushan"]
-lastmod = 2025-11-28T17:49:28-05:00
+lastmod = 2025-11-28T18:13:50-05:00
 draft = false
 +++
 
@@ -12,3 +12,5 @@ Cardone 卡東內，發音的感覺是義大利文。
 > 翻譯：標籤上的說明
 >
 > Cardone（念作 car-DOH-nay）是洋薊（朝鮮薊）的近親，千百年來一直激發著地中海料理人的靈感。外觀與芹菜相似，但 cardone 的莖在水煮、燉煮或快炒後會呈現出細緻而迷人的風味。
+
+在食譜上有時候會寫成 Cardoon ，據說 Cardone 是義大利文，而 Cardoon 是英文。
