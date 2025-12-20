@@ -11,10 +11,10 @@ draft = false
 
 菜名是菲律賓[Philippines]({{< relref "philippines.md" >}})語（Filipino/Tagalog），根據 LLMs 的說明，意思如下：
 
-Ginisang = 炒的（來自動詞 "gisa"，意思是炒或煎）
-Ampalaya = 苦瓜（[bitter melon]({{< relref "bitter_melon.md" >}})/bitter gourd）
-at = 和
-Itlog = 蛋（ [egg]({{< relref "egg.md" >}})）
+- Ginisang = 炒的（來自動詞 "gisa"，意思是炒或煎）  
+- Ampalaya = 苦瓜（[bitter melon]({{< relref "bitter_melon.md" >}})/bitter gourd）  
+- at = 和  
+- Itlog = 蛋（ [egg]({{< relref "egg.md" >}})）  
 
 簡單說來就是炒洋蔥大蒜辣椒跟番茄，然後再加上苦瓜跟淋上蛋液。非常簡單，據說是菲律賓很常見的家常菜。
 
