@@ -1,7 +1,8 @@
 +++
 title = "egg"
 author = ["Shoushan"]
-lastmod = 2025-12-19T22:20:10-05:00
+lastmod = 2025-12-19T22:38:49-05:00
+tags = ["ingredients"]
 draft = false
 +++
 

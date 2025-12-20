@@ -1,7 +1,8 @@
 +++
 title = "bitter melon"
 author = ["Shoushan"]
-lastmod = 2025-12-19T22:19:33-05:00
+lastmod = 2025-12-19T22:39:01-05:00
+tags = ["ingredients"]
 draft = false
 +++
 
